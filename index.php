@@ -30,7 +30,7 @@
 </head>
 
 <body>
-    <div class="preloader"></div>
+    <!-- <div class="preloader"></div> -->
     <div class="tavonline-overlay"></div>
     <div class="site-wrap" data-barba="wrapper">
         <main id="main" data-barba="container">
@@ -184,42 +184,87 @@
                         </div>
                         <div class="col-xl-6 right-area fade-right">
                             <div class="bordered-outer">
-                                <div class="bordered-link">View all news</div>
+                                <div class="bordered-link"><a style="color: white;" href="services.php">View
+                                        services</a>
+                                </div>
                             </div>
                         </div>
                         <hr class="hr-animation">
                     </div>
                     <!-- NEWS BOXES-->
                     <div class="spacer-60"></div>
-                    <div class="row px-0">
-                        <!-- a news item -->
-                        <div class="col-xl-4 col-md-4">
-                            <a href="#" class="news-item-2">
+                    <div class="row px-0 row-cols-1 row-cols-md-4">
+
+                        <div class="col news-item-2">
+                            <a href="#">
                                 <div class="image-anime">
-                                    <img src="assets/images/news-1.jpg" alt="news">
+                                    <img src="assets/images/platforms/apple.svg" alt="news">
                                 </div>
-                                <span class="date text-anime">OCTOBER 14, 2022</span>
-                                <h6 class="title text-anime">Beautiful Mistakes Video <br>Out Now</h6>
+                                <h6 class="title text-anime mt-4">Apple Music</h6>
                             </a>
                         </div>
-                        <!-- a news item -->
-                        <div class="col-xl-4 col-md-4 fade-down">
-                            <a href="#" class="news-item-2">
+
+                        <div class="col fade-down news-item-2">
+                            <a href="#">
                                 <div class="image-anime">
-                                    <img src="assets/images/news-2.jpg" alt="news">
+                                    <img src="assets/images/platforms/youtube-new.svg" alt="news">
                                 </div>
-                                <span class="date text-anime">OCTOBER 14, 2022</span>
-                                <h6 class="title text-anime">New Style From Christine <br>Out Now</h6>
+                                <h6 class="title text-anime mt-4">YouTube</h6>
                             </a>
                         </div>
-                        <!-- a news item -->
-                        <div class="col-xl-4 col-md-4 fade-down">
-                            <a href="#" class="news-item-2">
+
+                        <div class="col fade-down news-item-2">
+                            <a href="#">
                                 <div class="image-anime">
-                                    <img src="assets/images/news-3.jpg" alt="news">
+                                    <img src="assets/images/platforms/spotify.svg" alt="news">
                                 </div>
-                                <span class="date text-anime">OCTOBER 14, 2022</span>
-                                <h6 class="title text-anime">Christine is on the Cover of the <br>March Magazine</h6>
+                                <h6 class="title text-anime mt-4">Spotify
+                                </h6>
+                            </a>
+                        </div>
+                        <div class="col fade-down news-item-2">
+                            <a href="#">
+                                <div class="image-anime">
+                                    <img src="assets/images/platforms/tiktok.svg" alt="news">
+                                </div>
+                                <h6 class="title text-anime mt-4">TikTok
+                                </h6>
+                            </a>
+                        </div>
+                        <div class="col fade-down news-item-2">
+                            <a href="#">
+                                <div class="image-anime">
+                                    <img src="assets/images/platforms/youtube-music.svg" alt="news">
+                                </div>
+                                <h6 class="title text-anime mt-4">Youtube Music
+                                </h6>
+                            </a>
+                        </div>
+                        <div class="col fade-down news-item-2">
+                            <a href="#">
+                                <div class="image-anime">
+                                    <img src="assets/images/platforms/soundcloud.svg" alt="news">
+                                </div>
+                                <h6 class="title text-anime mt-4">SoundCloud
+                                </h6>
+                            </a>
+                        </div>
+                        <div class="col fade-down news-item-2">
+                            <a href="#">
+                                <div class="image-anime">
+                                    <img src="assets/images/platforms/kkbox.svg" alt="news">
+                                </div>
+                                <h6 class="title text-anime mt-4">kkbox
+                                </h6>
+                            </a>
+                        </div>
+                        <div class="col fade-down news-item-2">
+                            <a href="#">
+                                <div class="image-anime">
+                                    <img src="assets/images/platforms/deezer.svg" alt="news">
+                                </div>
+                                <h6 class="title text-anime mt-4">Deezer
+                                </h6>
                             </a>
                         </div>
                     </div>
