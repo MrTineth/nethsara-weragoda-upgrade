@@ -30,7 +30,7 @@
 </head>
 
 <body>
-    <!-- <div class="preloader"></div> -->
+    <div class="preloader"></div>
     <div class="tavonline-overlay"></div>
     <div class="site-wrap" data-barba="wrapper">
         <main id="main" data-barba="container">
@@ -64,11 +64,13 @@
                                 <h4 class="purple-gradient">Story Behind</h4>
                             </div>
                             <div class="spacer-60 spacer-sm-30"></div>
-                            <p class="text-anime">Born on 18 October 2001, Nethsara Geethanjana Weragoda known
+                            <p class="text-anime story-text">Born on 18 October 2001, Nethsara Geethanjana Weragoda
+                                known
                                 professionally as Nethsara Weragoda is a young Sri Lankan music producer. Active in
                                 music since 2014, he has worked as a composer, producer, mixing and recording engineer,
                                 and more recently as a songwriter.</p><br>
-                            <p class="text-anime">Currently emerging as an independent artist in Sri Lanka, he primarily
+                            <p class="text-anime story-text">Currently emerging as an independent artist in Sri Lanka,
+                                he primarily
                                 focuses on electronic, hip-hop, and pop music. His passion for music began in early
                                 childhood, with his first recorded vocals captured on cassette tapes at the age of
                                 three. This early exposure inspired his dream of building a music studio, leading him to
@@ -181,6 +183,9 @@
                             <div class="text-anime">
                                 <h4 class="purple-gradient fade-left">Platforms</h4>
                             </div>
+                            <p class="body-three text-anime">
+                                Explore our worldwide platforms and dive into the sound.
+                            </p>
                         </div>
                         <div class="col-xl-6 right-area fade-right">
                             <div class="bordered-outer">
@@ -196,72 +201,74 @@
                     <div class="row px-0 row-cols-1 row-cols-md-4">
 
                         <div class="col news-item-2">
-                            <a href="#">
+                            <a href="https://music.apple.com/us/artist/nethsara-weragoda/1532769409?fbclid=IwAR3It8nArIraFuMMLxKdg0ICcfHMkeu3e-LXjyiA0OERBuu2nNlY9E6RUio"
+                                target="_blank">
                                 <div class="image-anime">
-                                    <img src="assets/images/platforms/apple.svg" alt="news">
+                                    <img src="assets/images/platforms/apple.svg" alt="platform">
                                 </div>
                                 <h6 class="title text-anime mt-4">Apple Music</h6>
                             </a>
                         </div>
 
                         <div class="col fade-down news-item-2">
-                            <a href="#">
+                            <a href="https://youtube.com/@nethsara_Weragoda" target="_blank">
                                 <div class="image-anime">
-                                    <img src="assets/images/platforms/youtube-new.svg" alt="news">
+                                    <img src="assets/images/platforms/youtube-new.svg" alt="platform">
                                 </div>
                                 <h6 class="title text-anime mt-4">YouTube</h6>
                             </a>
                         </div>
 
                         <div class="col fade-down news-item-2">
-                            <a href="#">
-                                <div class="image-anime">
-                                    <img src="assets/images/platforms/spotify.svg" alt="news">
+                            <a href="https://open.spotify.com/artist/0MC4cnVn8M5CBaeKbDTsTI" target="_blank">
+                                <div class=" image-anime">
+                                    <img src="assets/images/platforms/spotify.svg" alt="platform">
                                 </div>
                                 <h6 class="title text-anime mt-4">Spotify
                                 </h6>
                             </a>
                         </div>
                         <div class="col fade-down news-item-2">
-                            <a href="#">
+                            <a href="https://www.tiktok.com/@nethsara_weragoda?_t=8YsgwHw2w8v&_r=1" target="_blank">
                                 <div class="image-anime">
-                                    <img src="assets/images/platforms/tiktok.svg" alt="news">
+                                    <img src="assets/images/platforms/tiktok.svg" alt="platform">
                                 </div>
                                 <h6 class="title text-anime mt-4">TikTok
                                 </h6>
                             </a>
                         </div>
                         <div class="col fade-down news-item-2">
-                            <a href="#">
+                            <a href="https://music.youtube.com/channel/UCqzLFF9Nki08TgvsOjXvfSg?feature=share"
+                                target="_blank">
                                 <div class="image-anime">
-                                    <img src="assets/images/platforms/youtube-music.svg" alt="news">
+                                    <img src="assets/images/platforms/youtube-music.svg" alt="platform">
                                 </div>
-                                <h6 class="title text-anime mt-4">Youtube Music
+                                <h6 class="title text-anime mt-4">YouTube Music
                                 </h6>
                             </a>
                         </div>
                         <div class="col fade-down news-item-2">
-                            <a href="#">
+                            <a href="https://soundcloud.com/nethsaraw" target="_blank">
                                 <div class="image-anime">
-                                    <img src="assets/images/platforms/soundcloud.svg" alt="news">
+                                    <img src="assets/images/platforms/soundcloud.svg" alt="platform">
                                 </div>
                                 <h6 class="title text-anime mt-4">SoundCloud
                                 </h6>
                             </a>
                         </div>
                         <div class="col fade-down news-item-2">
-                            <a href="#">
+                            <a href="https://www.kkbox.com/tw/en/artist/Ck6OvCDdLnwAclrIKz" target="_blank">
                                 <div class="image-anime">
-                                    <img src="assets/images/platforms/kkbox.svg" alt="news">
+                                    <img src="assets/images/platforms/kkbox.svg" alt="platform">
                                 </div>
-                                <h6 class="title text-anime mt-4">kkbox
+                                <h6 class="title text-anime mt-4">KKBOX
                                 </h6>
                             </a>
                         </div>
                         <div class="col fade-down news-item-2">
-                            <a href="#">
+                            <a href="https://www.deezer.com/en/artist/107678312" target="_blank">
                                 <div class="image-anime">
-                                    <img src="assets/images/platforms/deezer.svg" alt="news">
+                                    <img src="assets/images/platforms/deezer.svg" alt="platform">
                                 </div>
                                 <h6 class="title text-anime mt-4">Deezer
                                 </h6>

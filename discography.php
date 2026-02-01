@@ -51,12 +51,12 @@
             </div>
 
             <!-- DISCOGRAPHY -->
-            <div class="spacer-120 spacer-md-90 spacer-sm-30"></div>
+            <div class="spacer-120 spacer-md-90 spacer-sm-30 mt-4"></div>
             <div class="discography-page">
                 <div class="container px-4">
                     <div class="row g-4 g-md-5">
                         <a href="https://music.apple.com/lk/song/aadareka-patalum/1870930063" target="_blank"
-                            class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/adareka.jpeg" alt="album">
                             </div>
@@ -66,7 +66,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/lk/song/soyanawa-numbawa-ma-acoustic/1825476223"
-                            target="_blank" class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            target="_blank" class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/soyanawa-acoustic.jpg" alt="album">
                             </div>
@@ -77,7 +77,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/lk/album/himiwena-thura/1800789184?i=1800789185"
-                            target="_blank" class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            target="_blank" class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/himiwena.jpg" alt="album">
                             </div>
@@ -87,7 +87,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/lk/album/soyanawa-numbawa-ma/1730201807?i=1730201808"
-                            target="_blank" class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            target="_blank" class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/soyanawa.jpg" alt="album">
                             </div>
@@ -97,7 +97,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/fr/album/heena-horawa-acoustic-version-single/1702722589"
-                            target="_blank" class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            target="_blank" class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/heenaacoustic.jpg" alt="album">
                             </div>
@@ -107,7 +107,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/bw/album/thani-wu-da-single/1631806158" target="_blank"
-                            class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/nubewenna.jpg" alt="album">
                             </div>
@@ -117,7 +117,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/bw/album/thani-wu-da-single/1631806158" target="_blank"
-                            class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/thaniwuda.jpg" alt="album">
                             </div>
@@ -127,7 +127,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/us/album/heena-horawa-single/1637678717" target="_blank"
-                            class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/heenahorawa.jpg" alt="album">
                             </div>
@@ -137,7 +137,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/lk/album/nopenena-duraka/1763646948?i=1763647219"
-                            target="_blank" class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            target="_blank" class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/nopenena.jpg" alt="album">
                             </div>
@@ -147,7 +147,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/us/album/miringuwak-feat-riff-panda/1605636479?i=1605636482"
-                            target="_blank" class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            target="_blank" class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/miringuwak.jpeg" alt="album">
                             </div>
@@ -157,7 +157,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/us/album/shades-of-love-single/1616530818" target="_blank"
-                            class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/shades.jpeg" alt="album">
                             </div>
@@ -167,7 +167,7 @@
                             </div>
                         </a>
                         <a href="https://music.apple.com/us/album/siragatha-kala-sitha/1796296208?i=1796296209"
-                            target="_blank" class="col-xl-4 col-lg-4 col-md-4 col-6 one-album">
+                            target="_blank" class="col-xl-4 col-lg-4 col-md-6 col-12 mb-4 mb-md-0 one-album">
                             <div class="image-anime">
                                 <img src="assets/images/albums/siragatha.jpg" alt="album">
                             </div>

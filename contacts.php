@@ -77,7 +77,7 @@
                                         <!-- button -->
                                         <div class="col-xl-12 form-btn text-center">
                                             <div class="spacer-60"></div>
-                                            <button class="button-two" type="submit">
+                                            <button class="button-two mb-4" type="submit">
                                                 <div class="button-wrapper"><span data-hover="Send Message">Send
                                                         Message</span></div>
                                             </button>
@@ -90,16 +90,25 @@
                             <div class="contact-info">
                                 <h6>Reach out to us</h6>
                                 <div class="spacer-45"></div>
-                                <span class="body-three info-title">address:</span>
+                                <span
+                                    class="body-three info-title d-inline-flex align-items-center justify-content-center">
+                                    <i class="fa-solid fa-location-dot me-2"></i> Address
+                                </span>
                                 <div class="spacer-15"></div>
                                 <p class="body-three">Horana , Kalutara <br> Sri Lanka
                                 </p>
                                 <div class="spacer-45"></div>
-                                <span class="body-three info-title">Phone:</span>
+                                <span
+                                    class="body-three info-title d-inline-flex align-items-center justify-content-center">
+                                    <i class="fa-solid fa-phone me-2"></i> Phone
+                                </span>
                                 <div class="spacer-15"></div>
                                 <p class="body-three">+94 719129008<br>+94 719129008</p>
                                 <div class="spacer-45"></div>
-                                <span class="body-three info-title">Emails:</span>
+                                <span
+                                    class="body-three info-title d-inline-flex align-items-center justify-content-center">
+                                    <i class="fa-solid fa-envelope me-2"></i> Email
+                                </span>
                                 <div class="spacer-15"></div>
                                 <p class="body-three">necorecordz@gmail.com <br>info@nethsaraweragoda.com</p>
                             </div>

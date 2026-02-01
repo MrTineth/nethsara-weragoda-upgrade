@@ -66,30 +66,30 @@
                 <div class="spacer-30"></div>
                 <div class="news">
                     <!-- NEWS BOXES-->
-                    <div class="row gx-6 gy-5">
+                    <div class="row gx-6">
                         <!-- a news item -->
                         <div class="col-xl-4 col-md-4">
                             <div class="news-item-2">
-                                <img src="assets/images/news-1.jpg" alt="news">
+                                <img src="assets/images/services/audio.jpg" alt="service">
                                 <!-- <span class="date">OCTOBER 14, 2022</span> -->
-                                <h6 class="title">Audio Productions</h6>
+                                <h6 class="title mt-4">Audio Productions</h6>
                             </div>
                         </div>
                         <!-- a news item -->
                         <div class="col-xl-4 col-md-4">
                             <div class="news-item-2">
-                                <img src="assets/images/news-2.jpg" alt="news">
+                                <img src="assets/images/services/mixing.jpg" alt="service">
                                 <!-- <span class="date">OCTOBER 14, 2022</span> -->
-                                <h6 class="title">Mixing & Mastering
+                                <h6 class="title mt-4">Mixing & Mastering
                                 </h6>
                             </div>
                         </div>
                         <!-- a news item -->
                         <div class="col-xl-4 col-md-4">
                             <div class="news-item-2">
-                                <img src="assets/images/news-3.jpg" alt="news">
+                                <img src="assets/images/services/film.jpg" alt="service">
                                 <!-- <span class="date">OCTOBER 14, 2022</span> -->
-                                <h6 class="title">Film Production</h6>
+                                <h6 class="title mt-4">Film Production</h6>
                             </div>
                         </div>
 

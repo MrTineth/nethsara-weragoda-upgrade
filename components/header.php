@@ -24,15 +24,29 @@
                         <span></span>
                     </div>
                 </div>
-                <div class="shop-button">
-                    <span>2</span>
-                    <i class="ri-shopping-bag-fill"></i>
+                <div class="social-accounts-mobile d-flex d-md-flex d-lg-none">
+                    <a href="https://www.facebook.com/nethsaraw.Official" target="_blank"><i
+                            class="fa-brands fa-facebook-f"></i></a>
+                    <a href="https://twitter.com/nethsarawerago1" target="_blank"><i
+                            class="fa-brands fa-x-twitter"></i></a>
+                    <a href="https://www.instagram.com/nethsara_weragoda/" target="_blank"><i
+                            class="fa-brands fa-instagram"></i></a>
+                    <a href="https://youtube.com/@nethsara_Weragoda" target="_blank"><i
+                            class="fa-brands fa-youtube"></i></a>
+                    <a href="https://www.linkedin.com/in/nethsara-weragoda-279311202" target="_blank"><i
+                            class="fa-brands fa-linkedin"></i></a>
                 </div>
                 <div class="social-accounts">
-                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                    <a href="https://www.facebook.com/nethsaraw.Official" target="_blank"><i
+                            class="fa-brands fa-facebook-f"></i></a>
+                    <a href="https://twitter.com/nethsarawerago1" target="_blank"><i
+                            class="fa-brands fa-x-twitter"></i></a>
+                    <a href="https://www.instagram.com/nethsara_weragoda/" target="_blank"><i
+                            class="fa-brands fa-instagram"></i></a>
+                    <a href="https://youtube.com/@nethsara_Weragoda" target="_blank"><i
+                            class="fa-brands fa-youtube"></i></a>
+                    <a href="https://www.linkedin.com/in/nethsara-weragoda-279311202" target="_blank"><i
+                            class="fa-brands fa-linkedin"></i></a>
                 </div>
             </div>
         </div>

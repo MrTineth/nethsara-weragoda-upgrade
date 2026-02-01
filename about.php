@@ -86,25 +86,28 @@
                         with expressive musical storytelling. His work reflects a strong technical foundation paired
                         with an evolving artistic vision, positioning him as a versatile and forward-thinking producer
                         in the industry.
-                        <br><br>
-                        Nethsara’s journey into music began at an early age, driven by a deep-rooted passion nurtured
+                    </p>
+                    <p class="body-two mt-4"> Nethsara’s journey into music began at an early age, driven by a
+                        deep-rooted
+                        passion nurtured
                         within his family. At just three years old, his voice was recorded by his father on cassette
-                        tapes—an early moment that unknowingly marked the beginning of a lifelong connection with sound
-                        and recording. As he grew older, this curiosity transformed into ambition. With limited
-                        resources but strong determination, he began experimenting with sound recording using simple
-                        mobile hands-free devices, learning through trial, error, and persistence. These early
-                        experiments, though imperfect and noisy, laid the groundwork for his understanding of audio and
-                        production.
-                        <br><br>
+                        tapes—an early moment that unknowingly marked the beginning of a lifelong connection with
+                        sound and recording. As he grew older, this curiosity transformed into ambition. With
+                        limited resources but strong determination, he began experimenting with sound recording
+                        using simple mobile hands-free devices, learning through trial, error, and persistence.
+                        These early experiments, though imperfect and noisy, laid the groundwork for his
+                        understanding of audio and production. </p>
+                    <p class="body-two mt-4">
                         Over time, Nethsara refined his skills by combining formal musical education gained at school
                         with academic knowledge acquired through university studies, allowing him to develop a
                         structured yet creative approach to music production. This fusion of theory and practical
                         experience enables him to craft compositions that are both technically sound and emotionally
                         resonant.
-                        <br><br>
+                    </p>
+                    <p class="body-two mt-4">
                         Today, Nethsara Weragoda continues to evolve as an artist, dedicated to pushing creative
                         boundaries, building his sonic identity, and contributing meaningful work to the modern music
-                        landscape—driven by the same passion that first inspired him in childhood.
+                        landscape-driven by the same passion that first inspired him in childhood.
                     </p>
                 </div>
             </div>
